@@ -1,0 +1,9 @@
+Package: sixarm-debian-fuse-packages
+Version: 1.0.0
+Section: fuse
+Priority: optional
+Architecture: all
+Depends: fuse, fuse-convmvfs, fuse-posixovl, fuse-utils, fuse-zip, fusedav, fuseext2, fusefat, fuseiso, fusesmb, ifuse, libfuse-dev, libfuse2, libfusefs-ruby, python-fuse 
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: FUSE packages we like to use
+ FUSE packages we like to use together.
