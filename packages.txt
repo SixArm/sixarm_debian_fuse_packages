@@ -1,0 +1,15 @@
+fuse
+fuse-convmvfs
+fuse-posixovl
+fuse-utils
+fuse-zip
+fusedav
+fuseext2
+fusefat
+fuseiso
+fusesmb
+ifuse
+libfuse-dev
+libfuse2
+libfusefs-ruby
+python-fuse 
